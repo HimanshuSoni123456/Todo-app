@@ -1,0 +1,49 @@
+*{
+    background-color: #000;
+}
+h1{
+    margin-left: 350px;
+font-size: 100px;
+color:#00008b
+
+
+
+}
+.placeholder{
+    border-radius: 20px;
+    background-color: rgb(205, 50, 115);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 400px;
+}
+.button{
+    border-radius: 20px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+
+    
+}
+.delete{
+    border-radius: 20px;
+    background-color:darkgrey;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-left: 300px;
+
+    
+}
+.list{
+    border-radius: 20px;
+    margin-left: 400px;
+    color:white;
+}
+li{
+    border-radius: 20px;
+    background-color:black;
+    margin-top: 10px;
+}
